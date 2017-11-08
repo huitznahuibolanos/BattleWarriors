@@ -17,7 +17,7 @@ import java.util.StringTokenizer;
 import javax.imageio.ImageIO;
 
 public class LoadImages {
-	private final static String IMAGE_DIR = "Images/" ;
+	private final static String IMAGE_DIR = "../Images/" ;
 	
 	private HashMap imagesMap; 
 	
